@@ -1,7 +1,7 @@
 # Hi there, I’m @LuisIgnacio98 👋
 *Software Enginner Student at [PUCMM](https://www.pucmm.edu.do/)🏢*
 
-*I’m currently learning React.js && Node.js🌱*
+*I’m currently learning React.js , Vue.js && Node.js🌱*
 
 *Feel free to take a look at my projects🔻*
 
