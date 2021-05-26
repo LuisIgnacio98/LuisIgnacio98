@@ -1,5 +1,5 @@
 # Hi there, I’m @LuisIgnacio98 👋
-*Software Enginner at [PUCMM](https://www.pucmm.edu.do/)🏢*
+*Software Enginner Student at [PUCMM](https://www.pucmm.edu.do/)🏢*
 
 *I’m currently learning React.js🌱*
 
