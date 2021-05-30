@@ -5,6 +5,7 @@
 
 *Feel free to take a look at my projects🔻*
 
+[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisIgnacio98&show_icons=true&theme=dark)]
 
 <!---
 LuisIgnacio98/LuisIgnacio98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
