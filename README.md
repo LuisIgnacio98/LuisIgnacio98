@@ -13,11 +13,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-*Feel free to take a look at my projects🔻*
-
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisIgnacio98&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisIgnacio98&theme=dark&layout=compact)
 
+*Feel free to take a look at my projects🔻*
 <!---
 LuisIgnacio98/LuisIgnacio98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
